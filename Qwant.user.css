@@ -371,6 +371,11 @@
 	}
 
 	/*Main page*/
+        .search_bar__form
+	{
+		background: var(--main-background) !important;
+		color: var(--dimer-text) !important;
+	}
 	.search_bar .search_bar__form__input
 	{
 		background: var(--main-background) !important;
